@@ -14,5 +14,8 @@ To make it work, you must start the json-server. In the console give the command
 LINK
  https://emmanuelr84.github.io/CRUD-AluraLatam/
 
-![ImagenIlustrativa]
-(https://github.com/EmmanuelR84/CRUD-AluraLatam/blob/main/assets/img/imgProyecto.png){width=300px}
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/EmmanuelR84/CRUD-AluraLatam/blob/main/assets/img/imgProyecto.png" alt="JuveYell" width="300px">
+</p>
+</div>
