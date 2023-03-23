@@ -16,6 +16,6 @@ LINK
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://github.com/EmmanuelR84/CRUD-AluraLatam/blob/main/assets/img/imgProyecto.png" alt="JuveYell" width="300px">
+<img src="https://github.com/EmmanuelR84/CRUD-AluraLatam/blob/main/assets/img/imgProyecto.png" alt="imagen proyecto" width="50%">
 </p>
 </div>
