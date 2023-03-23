@@ -15,4 +15,4 @@ LINK
  https://emmanuelr84.github.io/CRUD-AluraLatam/
 
 
-"D:\emman\Programacion\c-programacion\one-oracle\Front-end-especializacion\3.jsSitiosInteractivos\2-js-cruds-con.js-asincrono\2-js-cruds-con-js-asincrono-aula\CRUD-AluraLatam\assets\img\imgProyecto.png"
+https://github.com/EmmanuelR84/CRUD-AluraLatam/blob/main/assets/img/imgProyecto.png
